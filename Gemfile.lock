@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.8.1)
+    httpclient (2.8.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv (~> 2.1, >= 2.1.1)
+  httpclient (~> 2.7, >= 2.7.1)
+
+BUNDLED WITH
+   1.17.2
